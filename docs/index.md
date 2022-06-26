@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Instruqt Bootcamp
 
-You can use the [editor on GitHub](https://github.com/scarolan/bootcamp/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Use the links below to open the slide decks for each lesson.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [0 - Welcome](https://docs.google.com/presentation/d/1gY6BoRJYxZax9Z3NEDSXKZh0E_7bKqG7bZwXHlibp7A/present#slide=id.p)
 
-### Markdown
+### [1 - Instruqt Web UI](https://docs.google.com/presentation/d/1EOoOJFryfa_uWfmVfBIzc9BPqwcUoV5pvvZdshGnAuA/present#slide=id.p)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [2 - Instruqt CLI](https://docs.google.com/presentation/d/1vI1bYqH2GAsCBdyv8orRfry2CKPXoTE88esigu9mMSU/edit#slide=id.p)
 
-```markdown
-Syntax highlighted code block
+### [3 - Instruqt Templates](https://docs.google.com/presentation/d/1ceYl2aO7arckMXBrhRh9BSBVR48Cd4pDGIW7Tp0JduE/edit#slide=id.p)
 
-# Header 1
-## Header 2
-### Header 3
+### [4 - More Fun with the CLI](https://docs.google.com/presentation/d/1JWGSY8cGasNBXyXDCBFNwyqwiP34YbZhzMTmQQD61UA/edit#slide=id.p)
 
-- Bulleted
-- List
+### [5 - The Sandbox Environment](https://docs.google.com/presentation/d/1PVdDYNYlEIxJCGoaIMsmFB8UxoFZnfVkasx9pVinnuA/edit#slide=id.g137ad3e2f52_0_1001)
 
-1. Numbered
-2. List
+### [6 - Lifecycle Scripts](https://docs.google.com/presentation/d/1ZtKXhxYRGZs2MEKu74UQ-XDtxob8wfs91xJVtKwe0oY/edit#slide=id.g137b0ce9680_0_1988)
 
-**Bold** and _Italic_ and `Code` text
+### [7 - Version Control](https://docs.google.com/presentation/d/1mpXnI3Fb7_HWLlwbgo_CUJ94eonXW8Ou_Ix4TPU_G1I/edit#slide=id.g137ac4f9808_0_331)
 
-[Link](url) and ![Image](src)
-```
+### [8 - Instruqt for Admins](https://docs.google.com/presentation/d/1ghWD-ZfjDhs4Yyg0wBN1VEEMZOan7wgk1QDtnIb5IEs/edit#slide=id.g137b4bc071a_0_1002)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scarolan/bootcamp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### [9 - Course Review](https://docs.google.com/presentation/d/1Ny1kARaFx7Rez_bVLZqIlExln5uf3HMEpJ76BGAOiF8/edit#slide=id.p)
